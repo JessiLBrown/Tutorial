@@ -1,3 +1,4 @@
 #### This is just a place holder for Stats Chat tutorial
 
-so on and so forth
+
+Adding some text here. And erased some above.
